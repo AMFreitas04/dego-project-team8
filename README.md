@@ -1,21 +1,21 @@
 # DEGO Project - Team 8
 
 ## Team Members
-- **Afonso Freitas**:
+- **Afonso Freitas**: Data Scientist
 - **Romeo Heukamp**: Data Engineer
 
 ## Project Description
-Credit scoring bias analysis for DEGO course [cite: 3, 18-19].
+Credit scoring bias analysis for DEGO course.
 
 ## Structure
-- `data/` - Dataset files [cite: 102]
-- `notebooks/` - Jupyter analysis notebooks [cite: 104]
-- `src/` - Python source code [cite: 107]
-- `reports/` - Final deliverables [cite: 108]
+- `data/` - Dataset files.
+- `notebooks/` - Jupyter analysis notebooks
+- `src/` - Python source code 
+- `reports/` - Final deliverables
 
 
 ## Data Engineering & Quality Report
-We performed a structured data quality assessment on the raw dataset (502 records) to ensure a reliable foundation for downstream bias analysis [cite: 19, 125-127].
+We performed a structured data quality assessment on the raw dataset (502 records) to ensure a reliable foundation for downstream bias analysis.
 
 ### Data Quality Dimensions & Remediation Mapping
 | Dimension | Issue Identified | Remediation Action |
