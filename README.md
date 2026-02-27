@@ -18,7 +18,7 @@ Credit scoring bias analysis for DEGO course.
 We performed a structured data quality assessment on the raw dataset (502 records) to ensure a reliable foundation for downstream bias analysis.
 
 ### Data Quality Dimensions & Remediation Mapping
-| Dimension | Issue Identified | Remediation Action
+| Dimension | Issue Identified | Remediation Action |
 | :--- | :--- | :--- | :--- |
 | **Uniqueness** | 2 Duplicate records found (0.40%) | Dropped duplicates based on `_id` |
 | **Completeness** | Identified 1% missingness in SSN, IP Address, and Annual Income fields, which are vital for credit scoring
