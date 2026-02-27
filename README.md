@@ -5,17 +5,17 @@
 - **Romeo Heukamp**: Data Engineer
 
 ## Project Description
-[cite_start]Credit scoring bias analysis for DEGO course [cite: 3, 18-19].
+Credit scoring bias analysis for DEGO course [cite: 3, 18-19].
 
 ## Structure
-- [cite_start]`data/` - Dataset files [cite: 102]
-- [cite_start]`notebooks/` - Jupyter analysis notebooks [cite: 104]
-- [cite_start]`src/` - Python source code [cite: 107]
-- [cite_start]`reports/` - Final deliverables [cite: 108]
+- `data/` - Dataset files [cite: 102]
+- `notebooks/` - Jupyter analysis notebooks [cite: 104]
+- `src/` - Python source code [cite: 107]
+- `reports/` - Final deliverables [cite: 108]
 
 
 ## Data Engineering & Quality Report
-[cite_start]We performed a structured data quality assessment on the raw dataset (502 records) to ensure a reliable foundation for downstream bias analysis [cite: 19, 125-127].
+We performed a structured data quality assessment on the raw dataset (502 records) to ensure a reliable foundation for downstream bias analysis [cite: 19, 125-127].
 
 ### Data Quality Dimensions & Remediation Mapping
 | Dimension | Issue Identified | Remediation Action |
