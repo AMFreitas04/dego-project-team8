@@ -21,7 +21,7 @@ We performed a structured data quality assessment on the raw dataset (502 record
 | Dimension | Issue Identified | Remediation Action | Status |
 | :--- | :--- | :--- | :--- |
 | **Uniqueness** | 2 Duplicate records found (0.40%) | Dropped duplicates based on `_id` |
-| **Completeness** | Identified 1% missingness in SSN, IP Address, and Annual Income fields, which are vital for credit scoring | 87.6% missing `processing_timestamp` and 90% `loan_purpose` | Flagged as a Governance/Logging gap |
+| **Completeness** | Identified 1% missingness in SSN, IP Address, and Annual Income fields, which are vital for credit scoring
 | **Completeness** | 87.6% missing `processing_timestamp` and 90% `loan_purpose` | Flagged as a Governance/Logging gap |
 | **Consistency** | Mixed types in `annual_income` (str/int/float) | Standardized all values to `float` |
 | **Consistency** | 6 variations of Gender coding (M, Male, F, etc.) | Standardized to `['Male', 'Female', nan]` |
