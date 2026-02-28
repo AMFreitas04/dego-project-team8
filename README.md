@@ -3,6 +3,7 @@
 ## Team Members
 - **Afonso Freitas**: Data Scientist
 - **Romeo Heukamp**: Data Engineer
+- **Afonso Alves**: Governance Officer
 
 ## Project Description
 Credit scoring bias analysis for DEGO course.
