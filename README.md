@@ -13,7 +13,7 @@ We started with **502 records** and, after remediation, ended with **501 records
 
 ## Key Findings and Metrics
 
-### 1) Data Quality (`notebooks/01 - data - qualityv2.ipynb`)
+### 1) Data Quality (`notebooks/01 - data - quality.ipynb`)
 | Dimension | Metric | Result |
 |---|---|---|
 | Uniqueness | Duplicate `_id` groups | 2 (`app_042`, `app_001`) |
